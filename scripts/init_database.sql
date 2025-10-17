@@ -13,7 +13,8 @@ WARNING:
     and ensure you have proper backups before running this script.
 */
 
-DROP DATABASE IF EXISTS DataWarehouse; #Drop the Database if Exists
+#Drop the Database if Exists
+DROP DATABASE IF EXISTS DataWarehouse; 
 
 # Create 'the DataWarehouse' database
 CREATE DATABASE DataWarehouse;
