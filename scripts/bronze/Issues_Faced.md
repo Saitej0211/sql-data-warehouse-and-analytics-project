@@ -18,9 +18,10 @@ This project involves loading CSV files into the `bronze` schema of a PostgreSQL
 ├── loc_a101.csv
 ├── cust_az12.csv
 └── px_cat_g1v2.csv
+```
 
 **Server-accessible folder used for COPY (optional):**
-
+```bash
 /tmp/postgres_csvs/
 ├── source_crm/
 ├── source_erp/
