@@ -37,7 +37,7 @@ It consists of:
 ## 🚀 Usage
 
 1. Ensure your PostgreSQL instance contains the `gold` schema.
-2. Open `gold_layer_analysis.sql` in **pgAdmin** or **DBeaver**.
+2. Open `EDA.sql` in **pgAdmin** or **DBeaver**.
 3. Run queries section by section to:
    - Validate data transformations.
    - Explore business KPIs.
