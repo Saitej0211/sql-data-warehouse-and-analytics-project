@@ -4,7 +4,6 @@ Welcome to the **Data Warehouse and Analytics Project** Repo
 
 This Project demostrates a comprehensive data warehousing and analytics solution, from Building a modern data warehouse with SQL server for generating actionable insights, including ETL processes,Data modeling, and analytics. This portfolio project highlights industry best practices in Data engineering and analytics.
 
---------------
 ---
 ## 🏗️ Data Architecture
 
