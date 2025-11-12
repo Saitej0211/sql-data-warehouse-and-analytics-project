@@ -45,15 +45,15 @@ It consists of:
 
 ---
 
-## 📊 Example Insights
+## 📊 Some Insights
 
 | Insight | Example Output |
 |----------|----------------|
-| Total Sales | `$1.48M` |
-| Active Customers | `4,320` |
-| Top Product | `Smartwatch Z` |
+| Total Sales | `$29M` |
+| Active Customers | `18,484` |
+| Top Product | `Bikes` |
 | Highest Revenue Country | `United States` |
-| Sales Range | `3 years, 4 months, 22 days` |
+| Sales Range | `3 years, 30 days` |
 
 ---
 
