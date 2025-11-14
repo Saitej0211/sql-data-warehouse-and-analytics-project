@@ -45,7 +45,7 @@ These tables follow a **Star Schema** model, where the `fact_sales` table refere
 
 ## ⚙️ Prerequisites
 
-- **PostgreSQL 14+**
+- **PostgreSQL 18**
 - **pgAdmin 4** or **DBeaver** for query execution
 - A database schema named `gold` with the following tables:
 
